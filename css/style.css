@@ -385,7 +385,7 @@ a img.aligncenter {
 }
 
 .btn-primary:hover {
-    background-color: #00359B;
+    background-color: #0057FF;
     color: #FFF;
 }
 
@@ -439,7 +439,7 @@ a img.aligncenter {
 }
 
 .btn-link:hover {
-    color: #00359B;
+    color: #0057FF;
     border-bottom: 2px solid #00359B;
     text-decoration: none;
 }
@@ -2611,8 +2611,8 @@ a:active {
 
 .prev-link,
 .next-link:hover {
-    color: #f0d825;
-    border-bottom: 2px solid #f0d825;
+    color: #0057FF;
+    border-bottom: 2px solid #0057FF;
     text-decoration: none;
 }
 
