@@ -381,18 +381,18 @@ a img.aligncenter {
 
 .btn-primary {
     background-color: #003CAF;
-    color: #000;
+    color: #FFF;
 }
 
 .btn-primary:hover {
-    background-color: #f0d825;
-    color: #000;
+    background-color: #00359B;
+    color: #FFF;
 }
 
 .btn-primary.focus,
 .btn-primary:focus {
-    background-color: #f0d825;
-    color: #000;
+    background-color: #00359B;
+    color: #FFF;
 }
 
 .btn-default {
@@ -439,8 +439,8 @@ a img.aligncenter {
 }
 
 .btn-link:hover {
-    color: #f0d825;
-    border-bottom: 2px solid #f0d825;
+    color: #00359B;
+    border-bottom: 2px solid #00359B;
     text-decoration: none;
 }
 
